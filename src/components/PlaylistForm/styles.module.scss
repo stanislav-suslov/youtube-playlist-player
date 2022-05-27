@@ -1,0 +1,14 @@
+.root {
+  display: grid;
+  gap: 0.5rem;
+}
+
+.preparedPlaylists {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 0.5rem;
+}
+
+.buttonSubmit {
+  margin-left: 0.5rem;
+}
